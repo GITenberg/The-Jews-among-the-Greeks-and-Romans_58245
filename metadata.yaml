@@ -1,11 +1,16 @@
 _repo: The-Jews-among-the-Greeks-and-Romans_58245
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 58245-h/images/cover.jpg
 creator:
   author:
     agent_name: Radin, Max
     gutenberg_agent_id: '49855'
     url: http://www.gutenberg.org/2009/agents/49855
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/58245#The-Jews-among-the-Greeks-and-Romans
 gutenberg_issued: '2018-11-06'
 gutenberg_type: Text
 identifiers:
